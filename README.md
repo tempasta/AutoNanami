@@ -3,7 +3,7 @@
 <img src="https://github.com/user-attachments/assets/7a992acd-00d4-4a20-958f-ca42c6cf7f62" height="120">
 <h1>AutoNanami</h1>
 
-an external memory macro, written in python, for aba (anime battle arena), that automatically hits nanami's timings by reading memory instead of using pixel scanning
+an external memory macro, written in python, for aba (anime battle arena), that automatically hits nanami's timings by reading memory instead of using pixel or image scanning
 
 ![python](https://img.shields.io/badge/python-3.x-3776ab?style=flat-square&logo=python&logoColor=white)
 ![platform](https://img.shields.io/badge/platform-windows-0078d4?style=flat-square&logo=windows&logoColor=white)
