@@ -6,7 +6,7 @@
 an external memory macro, written in python, for aba (anime battle arena), that automatically hits nanami's timings by reading memory instead of using pixel or image scanning
 
 [![python](https://img.shields.io/badge/python-3.x-3776ab?style=flat&logo=python&logoColor=white)](https://www.python.org/downloads/)
-[![windows](https://img.shields.io/badge/platform-windows-0078d4?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/software-download/windows11)
+[![windows](https://img.shields.io/badge/platform-windows-0078d4?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 [![status](https://img.shields.io/badge/status-active-238636?style=flat&logo=github&logoColor=white)](https://github.com/tempasta/AutoNanami/releases)
 [![aba](https://img.shields.io/badge/game-aba-d29922?style=flat&logo=roblox&logoColor=white)](https://www.roblox.com/games/1458767429/)
 [![external](https://img.shields.io/badge/type-external-a371f7?style=flat&logo=buffer&logoColor=white)](https://github.com/tempasta/AutoNanami)
